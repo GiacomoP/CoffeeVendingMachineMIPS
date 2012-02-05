@@ -1,0 +1,16 @@
+Coffee Vending Machine
+
+What is it?
+-------------
+
+This is a project I made for the Computer Architectures class.
+It is coded in Assembly for MIPS machines, I hope you'll enjoy it.
+It is intended to be only for educational purpose.
+You can do whatever you want with this code.
+
+How do I use it?
+-------------
+
+There are two beverages in the system, 301 will get you a coffee,
+302 will get you a tea. Be aware though, you'll need to put Euro coins
+in the machine in order to make it work!
